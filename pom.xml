@@ -11,10 +11,10 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <pippo.version>1.4.0</pippo.version>
         <!--
-        <pippo.version>1.5.0-SNAPSHOT</pippo.version>
+        <pippo.version>1.4.0</pippo.version>
         -->
+        <pippo.version>1.5.0-SNAPSHOT</pippo.version>
     </properties>
 
     <repositories>
